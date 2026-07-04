@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local agent collaboration notes
+agent.md
+
+# Local copy of the original RAG2 paper
+2025.naacl-long.635.pdf
