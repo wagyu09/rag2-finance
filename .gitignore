@@ -228,3 +228,5 @@ agent.md
 
 # Generated corpus data
 notebooks/all_corpus_*_chunks.parquet
+notebooks/all_corpus_embeddings.npy
+notebooks/all_corpus_faiss.index
