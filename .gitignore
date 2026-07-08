@@ -225,3 +225,6 @@ agent.md
 
 # Local FinDER 10-K corpus
 10k/
+
+# Generated corpus data
+notebooks/all_corpus_*_chunks.parquet
