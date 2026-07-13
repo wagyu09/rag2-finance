@@ -218,7 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Local agent collaboration notes
-agent.md
+AGENTS.md
 
 # Local copy of the original RAG2 paper
 2025.naacl-long.635.pdf
@@ -230,3 +230,6 @@ agent.md
 notebooks/all_corpus_*_chunks.parquet
 notebooks/all_corpus_embeddings.npy
 notebooks/all_corpus_faiss.index
+
+# Generated retrieval evaluation data
+notebooks/validation_*.parquet
