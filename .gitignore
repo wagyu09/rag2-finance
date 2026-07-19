@@ -199,7 +199,7 @@ cython_debug/
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #   and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #   you could uncomment the following to ignore the entire vscode folder
-# .vscode/
+.vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
@@ -230,6 +230,9 @@ AGENTS.md
 notebooks/all_corpus_*_chunks.parquet
 notebooks/all_corpus_embeddings.npy
 notebooks/all_corpus_faiss.index
+notebooks/ticker_to_company.json
+notebooks/entity_df.parquet
+notebooks/entity_embeddings.npy
 
 # Generated retrieval evaluation data
 notebooks/validation_*.parquet
